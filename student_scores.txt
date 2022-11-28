@@ -1,0 +1,1 @@
+{'Amir Zar': 70, 'Oden Vangelis': 120}
